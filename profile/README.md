@@ -31,7 +31,7 @@ We aim to build clean, readable, well-documented source code and are open to con
 
 ---
 
-[Join us!](https://ultracleverbot.github.io/join-us) | (![Discord](https://img.shields.io/discord/1425492446342545432?logo=discord&label=Discord))[https://ultracleverbot.github.io/discord]
+[Join us!](https://ultracleverbot.github.io/join-us) | [![Discord](https://img.shields.io/discord/1425492446342545432?logo=discord&label=Discord)](https://ultracleverbot.github.io/discord)
 
 
 <!--
